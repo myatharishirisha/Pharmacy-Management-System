@@ -1,0 +1,9 @@
+Id,Name,Price,Quantity,Expiry_date
+1,paracetomol,45.0,1,2028-08-08
+1,paracetomol,34.0,2,2029-09-09
+2,Aspirin,34.0,2,2029-08-08
+1,paracetomol,3.0,2,2029-08-08
+1,paracetomol,34.0,2,2029-08-09
+3,GAstric,70.0,0,2030-04-09
+8,bp,30.0,0,2030-07-09
+9,asdas,23.0,2,2098-08-09
